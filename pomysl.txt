@@ -1,0 +1,7 @@
+Prosta aplikacja dziennika treningowego, posiadająca funcjonalności:
+- baza z ćwiczeniami, z możliwością dodawania i modyfikacji już istniejącyh
+- tworzenie planów trenigowych z cwiczen dostępnych w bazie
+- rejestrowanie przebiegu poszczególnych jednostek treningowych (ćwiczenie, ilość wykonanych powtórzeń, ciężar)
+
+Dodatkowe funkcjonalności:
+- licznik zapotrzebowania kalorycznego i makro w djecie.
